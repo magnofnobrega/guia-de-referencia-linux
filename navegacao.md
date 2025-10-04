@@ -24,7 +24,7 @@ user@VMUbuntu2204LTS:~$
 
 ## 📂 Comandos essenciais
 
-**ls — Listar diretórios e arquivos**
+**ls — Listar diretórios e arquivos (list)**
 ```bash
 ls
 ls -l    # Lista detalhada
@@ -32,7 +32,7 @@ ls -a    # Mostra arquivos ocultos
 ls -lh   # Tamanho legível (KB, MB)
 ```
 
-**cd — Navegar entre diretórios**
+**cd — Navegar entre diretórios (changee directory)**
 ```bash
 cd /etc     # Vai para /etc
 cd ..       # Volta um nível
@@ -48,7 +48,7 @@ clear
 Ou use o atalho ```Ctrl + L```.
 
 
-**pwd — Mostrar o diretório atual**
+**pwd — Mostrar o diretório atual (print working directory)**
 ```bash
 pwd
 ```
