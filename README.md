@@ -19,7 +19,7 @@ Este repositório é o início de um guia técnico — criado tanto para **ensin
 
 | Seção | Descrição | Acesse |
 |-------|-----------|--------|
-| 🧭 **Navegação no ambiente Linux** | Entenda a estrutura do terminal, os comandos básicos e a organização dos diretórios. | [Acessar módulo →](/navegação.md) |
+| 🧭 **Navegação no ambiente Linux** | Entenda a estrutura do terminal, os comandos básicos e a organização dos diretórios. | [Acessar módulo →](/navegacao.md) |
 
 ---
 
