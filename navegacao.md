@@ -6,7 +6,7 @@ A maioria das aplicações web está hospedada em **servidores sem interface gr�
 
 ---
 
-## 📌 Entendendo o prompt do terminal
+## Entendendo o prompt do terminal
 
 ```bash
 user@VMUbuntu2204LTS:~$
@@ -22,7 +22,7 @@ user@VMUbuntu2204LTS:~$
 
 ---
 
-## 📂 Comandos essenciais
+## Comandos essenciais
 
 **ls — Listar diretórios e arquivos (list)**
 ```bash
@@ -57,7 +57,7 @@ Exemplo de saída: ```/home/magno/Documentos```
 
 ---
 
-## 🏗️ Estrutura de diretórios no Ubuntu
+## Estrutura de diretórios no Ubuntu
 
 A **raiz** do sistema é `/`.
 A partir dela, todos os diretórios seguem o padrão F`HS (Filesystem Hierarchy Standard)`. Mas também inclui diretórios adicionais criados por componentes específicos do sistema (como `snap` e `cdrom`). 
@@ -91,4 +91,5 @@ A partir dela, todos os diretórios seguem o padrão F`HS (Filesystem Hierarchy 
 
 ---  
 
-[Voltar à página inicial ⬅ ](/README.md)   
+[Voltar à página inicial ⬅ ](/README.md)  
+[Próximo módulo: ⬅ Trabalhando com privilégios de superusuário (sudo)](/sudo.md)   
