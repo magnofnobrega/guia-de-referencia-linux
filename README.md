@@ -23,6 +23,7 @@ Este repositório é o início de um guia técnico — criado tanto para **ensin
 | 🔐 **Trabalhando com privilégios de superusuário (sudo)** | Aprenda a executar comandos administrativos, entender a diferença entre `$` e `#`, usar o `sudo -i` e editar o arquivo `sudoers` com segurança. | [Acessar módulo →](/sudo.md) |  
 | 📂 **Criando diretórios e arquivos no Linux** | Aprenda a criar pastas e arquivos, navegar entre diretórios, exibir conteúdo com `cat` e utilizar editores de texto como Nano e Vim. | [Acessar módulo →](/diretorios.md) |  
 | 🚚 **Movendo arquivos e diretórios** | Aprenda a mover, copiar e renomear arquivos e pastas utilizando os comandos `mv` e `cp`, além de verificar permissões com `ls -l`, `ls -a` e `ls -la`. | [Acessar módulo →](/copiando.md)  
+| 🗑️ **Apagando arquivos e redirecionando saídas** | Aprenda a excluir arquivos, redirecionar saídas e gerenciar permissões no Linux. | [Acessar módulo →](/apagando.md)  
 
 ---
 
