@@ -1,4 +1,4 @@
-## 📂 Criando diretórios e arquivos no Linux  
+# 📂 Criando diretórios e arquivos no Linux  
 
 Estamos na raiz do sistema. Se digitarmos `cd` no terminal, voltaremos para a `home` do usuário:
 
@@ -134,4 +134,4 @@ Este é o meu primeiro arquivo criado no Linux!
 
 [Voltar ao módulo anterior ⬅ Trabalhando com privilégios de superusuário (sudo)](/sudo.md)  
 [Voltar à página inicial ⬅ ](/README.md)  
-[Próximo módulo: ⬅ ainda não tem]() 
+[Próximo módulo: ⬅ Movendo arquivos e diretórios](/copiando.md) 
