@@ -142,4 +142,4 @@ O prompt voltará a exibir o símbolo `$`.
 ---
 
 [Voltar à página inicial ⬅ ](/README.md)  
-[Próximo módulo: ⬅ ainda não tem]() 
+[Próximo módulo: ⬅ Criando diretórios e arquivos no linux](/diretorios.md) 

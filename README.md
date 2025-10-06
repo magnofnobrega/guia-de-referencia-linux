@@ -20,7 +20,8 @@ Este repositório é o início de um guia técnico — criado tanto para **ensin
 | Seção | Descrição | Acesse |
 |-------|-----------|--------|
 | 🧭 **Navegação no ambiente Linux** | Entenda a estrutura do terminal, os comandos básicos e a organização dos diretórios. | [Acessar módulo →](/navegacao.md) |
-| 🔐 **Trabalhando com privilégios de superusuário (sudo)** | Aprenda a executar comandos administrativos, entender a diferença entre `$` e `#`, usar o `sudo -i` e editar o arquivo `sudoers` com segurança. | [Acessar módulo →](/sudo.md) |
+| 🔐 **Trabalhando com privilégios de superusuário (sudo)** | Aprenda a executar comandos administrativos, entender a diferença entre `$` e `#`, usar o `sudo -i` e editar o arquivo `sudoers` com segurança. | [Acessar módulo →](/sudo.md) |  
+| 📂 **Criando diretórios e arquivos no Linux** | Aprenda a criar pastas e arquivos, navegar entre diretórios, exibir conteúdo com `cat` e utilizar editores de texto como Nano e Vim. | [Acessar módulo →](/diretorios.md) |  
 
 ---
 
