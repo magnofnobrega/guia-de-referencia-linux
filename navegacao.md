@@ -64,9 +64,9 @@ A partir dela, todos os diretórios seguem o padrão F`HS (Filesystem Hierarchy 
 
 | **Diretório** | **Função** |
 |---------------|------------|
-| ```/bin``` | BArmazena b**inários essenciais** do sistema, como `ls`, `cp`, `mv`, `rm`. |  
+| ```/bin``` | Armazena **binários essenciais** do sistema, como `ls`, `cp`, `mv`, `rm`. |  
 | ```/boot``` | Contém os **arquivos necessários para o boot**, incluindo o kernel e o GRUB. |  
-| ```c/drom``` | Ponto de **montagem temporário de mídias de CD/DVD** (usado em instalações). |  
+| ```cdrom``` | Ponto de **montagem temporário de mídias de CD/DVD** (usado em instalações). |  
 | ```/dev``` | Contém **arquivos de dispositivos**, representando hardware (como `/dev/sda`, `/dev/null`). |  
 | ```/etc``` | **Arquivos de configuração** do sistema e de aplicativos instalados. |  
 | ```/home``` | Diretórios pessoais dos **usuários comuns** (ex: `/home/magno`). |  
@@ -86,8 +86,8 @@ A partir dela, todos os diretórios seguem o padrão F`HS (Filesystem Hierarchy 
 | ```srv``` | Dados de **serviços fornecidos pelo sistema**, como servidores HTTP ou FTP. |  
 | ```sys``` | Sistema virtual que **interage com o kernel** e o hardware. |  
 | ```tmp``` | Diretório para **arquivos temporários**, limpos automaticamente. |  
-| ```usr``` | BContém **programas, bibliotecas e documentação** de usuários e do sistema. |  
-| ```var``` | Armazena a**rquivos variáveis**, como logs, caches e filas de email. |  
+| ```usr``` | Contém **programas, bibliotecas e documentação** de usuários e do sistema. |  
+| ```var``` | Armazena **arquivos variáveis**, como logs, caches e filas de email. |  
 
 ---  
 
