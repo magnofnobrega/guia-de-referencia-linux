@@ -1,5 +1,10 @@
 # 🐧 Guia de Referência Linux
 
+![Linux](https://img.shields.io/badge/Linux-FC5C00?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 > Documentação prática e aprofundada sobre o uso do Linux em ambientes reais de desenvolvimento e servidores.  
 > Autor: **Magno Nóbrega**
 
