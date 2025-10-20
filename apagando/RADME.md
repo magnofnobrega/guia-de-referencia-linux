@@ -170,5 +170,5 @@ Mostra uma lista de todos os comandos com suas descrições resumidas — ótimo
 
 
 [Voltar ao módulo anterior ⬅ Movendo arquivos e diretórios ](../copiando)  
-[Voltar à página inicial ⬅ ](./)  
+[Voltar à página inicial ⬅ ](../)  
 [Próximo módulo: ⬅ Ainda não tem]() 

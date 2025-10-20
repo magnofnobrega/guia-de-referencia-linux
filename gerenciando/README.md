@@ -107,5 +107,5 @@ killall firefox
 ---  
 
 [Voltar ao módulo anterior ⬅ Apagando arquivos e redirecionando saídas ](../apagando)  
-[Voltar à página inicial ⬅ ](./)  
+[Voltar à página inicial ⬅ ](../)  
 [Próximo módulo: ⬅ Ainda não tem]()   

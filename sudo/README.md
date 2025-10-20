@@ -141,5 +141,5 @@ O prompt voltará a exibir o símbolo `$`.
 
 ---
 
-[Voltar à página inicial ⬅ ](./)  
-[Próximo módulo: ⬅ Criando diretórios e arquivos no linux](../diretorios) 
+[Voltar à página inicial ⬅ ](../)  
+[Próximo módulo: ⬅ Criando diretórios e arquivos no linux](../diretorios/)  
