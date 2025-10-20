@@ -169,6 +169,6 @@ man -k .
 Mostra uma lista de todos os comandos com suas descrições resumidas — ótimo para explorar o sistema.
 
 
-[Voltar ao módulo anterior ⬅ Movendo arquivos e diretórios ](/copiando.md)  
-[Voltar à página inicial ⬅ ](/README.md)  
+[Voltar ao módulo anterior ⬅ Movendo arquivos e diretórios ](../copiando)  
+[Voltar à página inicial ⬅ ](./)  
 [Próximo módulo: ⬅ Ainda não tem]() 

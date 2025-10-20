@@ -91,5 +91,5 @@ A partir dela, todos os diretórios seguem o padrão F`HS (Filesystem Hierarchy 
 
 ---  
 
-[Voltar à página inicial ⬅ ](/README.md)  
-[Próximo módulo: ⬅ Trabalhando com privilégios de superusuário (sudo)](/sudo.md)   
+[Voltar à página inicial ⬅ ](./)  
+[Próximo módulo: ⬅ Trabalhando com privilégios de superusuário (sudo)](../sudo)   

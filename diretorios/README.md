@@ -132,6 +132,6 @@ Saída esperada:
 Este é o meu primeiro arquivo criado no Linux!  
 
 
-[Voltar ao módulo anterior ⬅ Trabalhando com privilégios de superusuário (sudo)](/sudo.md)  
-[Voltar à página inicial ⬅ ](/README.md)  
-[Próximo módulo: ⬅ Movendo arquivos e diretórios](/copiando.md) 
+[Voltar ao módulo anterior ⬅ Trabalhando com privilégios de superusuário (sudo)](../sudo)  
+[Voltar à página inicial ⬅ ](./)  
+[Próximo módulo: ⬅ Movendo arquivos e diretórios](../copiando) 

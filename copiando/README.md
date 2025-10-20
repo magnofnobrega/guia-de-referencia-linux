@@ -127,6 +127,6 @@ O parâmetro `-r` (ou `--recursive`) é obrigatório para copiar diretórios com
 
   
 
-[Voltar ao módulo anterior ⬅ Criando diretórios e arquivos no Linux](/diretorios.md)  
-[Voltar à página inicial ⬅ ](/README.md)  
-[Próximo módulo: ⬅ Apagando arquivos e redirecionando saídas](/apagando.md)   
+[Voltar ao módulo anterior ⬅ Criando diretórios e arquivos no Linux](../diretorios)  
+[Voltar à página inicial ⬅ ](./)  
+[Próximo módulo: ⬅ Apagando arquivos e redirecionando saídas](../apagando)   
