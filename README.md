@@ -24,12 +24,12 @@ Este repositório é o início de um guia técnico — criado tanto para **ensin
 
 | Seção | Descrição | Acesse |
 |-------|-----------|--------|
-| 🧭 **Navegação no ambiente Linux** | Entenda a estrutura do terminal, os comandos básicos e a organização dos diretórios. | [Acessar módulo →](./navegacao) |
-| 🔐 **Trabalhando com privilégios de superusuário (sudo)** | Aprenda a executar comandos administrativos, entender a diferença entre `$` e `#`, usar o `sudo -i` e editar o arquivo `sudoers` com segurança. | [Acessar módulo →](./sudo) |  
-| 📂 **Criando diretórios e arquivos no Linux** | Aprenda a criar pastas e arquivos, navegar entre diretórios, exibir conteúdo com `cat` e utilizar editores de texto como Nano e Vim. | [Acessar módulo →](./diretorios) |  
-| 🚚 **Movendo arquivos e diretórios** | Aprenda a mover, copiar e renomear arquivos e pastas utilizando os comandos `mv` e `cp`, além de verificar permissões com `ls -l`, `ls -a` e `ls -la`. | [Acessar módulo →](./copiando)  
-| 🗑️ **Apagando arquivos e redirecionando saídas** | Aprenda a excluir arquivos, redirecionar saídas e gerenciar permissões no Linux. | [Acessar módulo →](./apagando) |    
-| ⚙️ **Gerenciando processos** | Aprenda a monitorar, filtrar e encerrar `processos` no Linux, utilizando comandos como `top`, `ps`, `pstree`, `kill` e muito mais. | [Acessar módulo →](./gerenciando) |  
+| 🧭 **Navegação no ambiente Linux** | Entenda a estrutura do terminal, os comandos básicos e a organização dos diretórios. | [Acessar módulo →](navegacao) |
+| 🔐 **Trabalhando com privilégios de superusuário (sudo)** | Aprenda a executar comandos administrativos, entender a diferença entre `$` e `#`, usar o `sudo -i` e editar o arquivo `sudoers` com segurança. | [Acessar módulo →](sudo) |  
+| 📂 **Criando diretórios e arquivos no Linux** | Aprenda a criar pastas e arquivos, navegar entre diretórios, exibir conteúdo com `cat` e utilizar editores de texto como Nano e Vim. | [Acessar módulo →](diretorios) |  
+| 🚚 **Movendo arquivos e diretórios** | Aprenda a mover, copiar e renomear arquivos e pastas utilizando os comandos `mv` e `cp`, além de verificar permissões com `ls -l`, `ls -a` e `ls -la`. | [Acessar módulo →](copiando)  
+| 🗑️ **Apagando arquivos e redirecionando saídas** | Aprenda a excluir arquivos, redirecionar saídas e gerenciar permissões no Linux. | [Acessar módulo →](apagando) |    
+| ⚙️ **Gerenciando processos** | Aprenda a monitorar, filtrar e encerrar `processos` no Linux, utilizando comandos como `top`, `ps`, `pstree`, `kill` e muito mais. | [Acessar módulo →](gerenciando) |  
 
 
 ---
